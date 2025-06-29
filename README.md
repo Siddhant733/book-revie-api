@@ -1,1 +1,1 @@
-# book-revie-api
+# book-review-api
